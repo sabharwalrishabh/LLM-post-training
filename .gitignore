@@ -1,0 +1,3 @@
+# Ignore model checkpoints and experiment tracking logs
+checkpoints/
+wandb/
